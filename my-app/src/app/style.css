@@ -1,0 +1,44 @@
+
+body {
+  background: url("/murphys-new-background.jpeg") no-repeat center center fixed;
+  background-size: cover;
+}
+  
+
+#topMenu {
+  background-color: #1B4F24;
+  color: white;
+  padding-bottom: 15px;
+}
+
+#centerText {
+  color: white;
+  height: 500px;
+}
+
+#bottomMenu {
+  background-color: #1B4F24;
+  color: white;
+}
+
+div.nav-item.nav-link {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+  /* Ensure the toggler icon is visible */
+  .navbar-toggler {
+    border-color: white !important;
+  }
+
+  .navbar-toggler-icon {
+    filter: invert(1); /* Makes it white */
+  }
+  
+/*:root {*/
+/*  --bs-link-color: white;*/
+/*}*/
+
